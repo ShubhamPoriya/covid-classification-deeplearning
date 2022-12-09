@@ -1,8 +1,6 @@
-# Q1. Summary
+## Summary
 
 Implemented deep learning on my dataset with varying degrees of depth, and included a comparative analysis between them.
-
-# Q2. Dataset description
 
 ## Dataset Description
 
@@ -12,10 +10,6 @@ In this dataset,we have divided data into training and testing data. These data 
 
 ![figure](figs/__results___3_0.png "Figure")
 
-## AUC Values
--
-
-# Q3. Details
 
 Comparing the 3 models with different architectures:
 
